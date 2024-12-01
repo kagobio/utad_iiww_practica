@@ -12,5 +12,10 @@
     "astro": "^4.16.16",
     "@astrojs/check": "^0.9.4",
     "typescript": "^5.7.2"
-  }
+  },
+  "description": "```sh npm create astro@latest -- --template basics ```",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
